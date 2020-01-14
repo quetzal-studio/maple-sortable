@@ -1,0 +1,20 @@
+{
+    "name": "quetzalstudio/maple-sortable",
+    "version": "0.1.0",
+    "description": "Column sortable",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Quetzal Studio",
+            "email": "quetzalstudio26@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "QuetzalStudio\\MapleSortable\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
